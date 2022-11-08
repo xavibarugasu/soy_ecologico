@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">soy ecologico</string>
-    <string name="soy_ecologico">Soy ecologico</string>
+    <string name="soy_ecologico">Soy ecologico.</string>
     <string name="todo">TODO</string>
     <string name="y_pongo_en_carga_r_pida_a_la_planta_en_la_que_estoy_conectado">y pongo en ´carga rápida´ a la planta en la que estoy conectado</string>
 </resources>
